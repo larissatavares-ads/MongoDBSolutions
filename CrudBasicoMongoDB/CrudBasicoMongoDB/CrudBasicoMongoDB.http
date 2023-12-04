@@ -1,0 +1,6 @@
+@CrudBasicoMongoDB_HostAddress = http://localhost:5068
+
+GET {{CrudBasicoMongoDB_HostAddress}}/api/Books
+Accept: application/json
+
+###
